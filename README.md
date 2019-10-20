@@ -12,10 +12,9 @@ Tool Information Gathering Write With Python.
 ╚███╔███╔╝███████╗██████╔╝██║  ██╗██║███████╗███████╗███████╗██║  ██║
  ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ====================================================================
-**                    WebSite : UltraSec.org                      **
-**                    Channel : @UltraSecurity                    **
+**                    WebSite :https://wwww.sanjupappachan.tk     **
+**                    Channel :                                   **
 **                 Developers : Ashkan Moghaddas , Milad Ranjbar  **
-**               Team Members : Abolfaz Hajizadeh , MrQadir       **
 **                                                                **
 ====================================================================
 
@@ -48,7 +47,7 @@ Enter :
 
 ## Install
 ```bash
-git clone https://github.com/ultrasecurity/webkiller.git
+git clone https://github.com/Sanju8943/webkiller.git
 cd webkiller
 pip install -r requirements.txt
 python webkiller.py 
@@ -58,16 +57,11 @@ python webkiller.py
 ![webkiller](https://user-images.githubusercontent.com/34939571/42339890-a8da008c-80a3-11e8-87c1-dcf5e0648203.png)
 
 ## Video Tutorial
-Youtube : https://www.youtube.com/watch?v=MTaM1YX8QsE
+Youtube : 
 
 
-### Thanks to
-    Ashkan Moghaddas - Ultra Security Team Leader
-    Abolfazl Hajizadeh - Ultra Security Team Programmer
-    Milad Ranjbar -  Ultra Security Team Programmer
-    MrQadir - Team Member 
 
 ### Contact us
-- WebSite Ultra Security Team : https://ultrasec.org
-- Channel Telegram : https://t.me/UltraSecurity
-- Contact with Milad Ranjbar : https://t.me/milad_zero
+- WebSite Ultra Security Team : https://www.sanjupappachan.tk
+- Channel Telegram : 
+- Contact 
